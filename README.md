@@ -1,30 +1,30 @@
-#Title Of The Project
+# Title Of The Project
 Caesar-Cipher Test Program
 
-#Author/Developer
+# Author/Developer
 Lovine Oduor
 
-#Description of Project
+# Description of Project
 A Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence.[1]
 
-#Project Setup Instructions
+# Project Setup Instructions
 1. Open terminal in your local machine.
 2. git clone my repo at ("https://github.com/l-beep/Caesarcipher").
 3. Open the project in Intellij IDEA.
 4. View the project in IntelliJ IDEA.
 5. Run the project in IntelliJ IDEA.
 
-#Technology Used
+# Technology Used
 1. Java/Spark
 
 
-#Behaviour Driven Development
+# Behaviour Driven Development
 To view the webpage 1: clone this repo :git clone(). 2.Open the repo using prefered text editor e.g Visual Studio Code, Atom, sublime text or IntelliJ. 3:Traverse through the folder using Terminal
 
 # Support and Contact details
 Incase of any questions or issues please feel free to conduct me through email(oduor.lovine@gmail.com)
 
-#Copyright Information and Licencing
+# Copyright Information and Licencing
  MIT License Copyright (c) [2020] [ Lovine Oduor ]
 
 
